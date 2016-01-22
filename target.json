@@ -17,7 +17,7 @@
     }
   ],
   "keywords": [
-    "pluto"
+    "pluto",
     "mbed-target:nrf51_pluto",
     "ble",
     "nrf51822",
